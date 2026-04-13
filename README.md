@@ -78,7 +78,6 @@ Server khởi động tại: **http://localhost:8000**
 
 > \*\*Lưu ý:\*\* Lần đầu chạy, mô hình (\~300MB) sẽ được tải về tự động. Chờ đến khi terminal hiển thị `Tải mô hình thành công!`
 
-Swagger UI: **http://localhost:8000/docs**
 
 \---
 
@@ -118,7 +117,7 @@ curl http://localhost:8000/health
 ```json
 {
   "status": "ok",
-  "model\_loaded": true,
+  "model_loaded": true,
   "model": "Helsinki-NLP/opus-mt-en-vi",
   "task": "translation\_en\_to\_vi"
 }
@@ -138,10 +137,10 @@ curl "http://localhost:8000/translate?message=Hello%2C+how+are+you%3F"
 
 ```json
 {
-  "source\_language": "English",
-  "target\_language": "Vietnamese",
-  "original\_text": "Hello, how are you?",
-  "translated\_text": "Xin chào, bạn có khỏe không?"
+  "source_language": "English",
+  "target_language": "Vietnamese",
+  "original_text": "Hello, how are you?",
+  "translated_text": "Xin chào, bạn có khỏe không?"
 }
 ```
 
@@ -155,10 +154,10 @@ curl "http://localhost:8000/translate?message=Artificial+intelligence+is+changin
 
 ```json
 {
-  "source\_language": "English",
-  "target\_language": "Vietnamese",
-  "original\_text": "Artificial intelligence is changing the world.",
-  "translated\_text": "Trí tuệ nhân tạo đang thay đổi thế giới."
+  "source_language": "English",
+  "target_language": "Vietnamese",
+  "original_text": "Artificial intelligence is changing the world.",
+  "translated_text": "Trí tuệ nhân tạo đang thay đổi thế giới."
 }
 ```
 
@@ -193,7 +192,7 @@ cài thư viện → tạo config → load model → test model → khởi độ
 
 ## Video Demo
 
-> \*\*\[Xem video demo tại đây](#)\*\*  
+> \*\*Xem video demo tại đây\*\*  
 
 
 https://github.com/user-attachments/assets/95247c1b-0c74-48c4-a5aa-21d2ce2414a3

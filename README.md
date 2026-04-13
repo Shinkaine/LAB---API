@@ -179,7 +179,7 @@ curl "http://localhost:8000/translate?message=Artificial+intelligence+is+changin
 
 ```bash
 # Đảm bảo server đang chạy trước
-python test\_api.py
+python test_api.py
 ```
 
 \---
@@ -194,10 +194,13 @@ cài thư viện → tạo config → load model → test model → khởi độ
 ## Video Demo
 
 > \*\*\[Xem video demo tại đây](#)\*\*  
-> \*(Cập nhật link sau khi upload lên YouTube/Drive)\*
 
 
-https://github.com/user-attachments/assets/cd706338-a4f1-4a05-bfb4-47e737530f84
+https://github.com/user-attachments/assets/95247c1b-0c74-48c4-a5aa-21d2ce2414a3
+
+
+
+
 
 
 

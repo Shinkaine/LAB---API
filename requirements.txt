@@ -1,0 +1,12 @@
+# các thư viện cần thiết để chạy ứng dụng FastAPI với mô hình ngôn ngữ
+fastapi
+uvicorn
+transformers
+torch
+sentencepiece
+requests
+omegaconf
+requests
+sacremoses
+protobuf
+pydantic

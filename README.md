@@ -59,18 +59,10 @@ lab1-api/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/<your-username>/lab1-api.git
-cd lab1-api
+git clone https://github.com/<your-username>/LAB---API.git
+cd LAB---API
 
-# 2. Tạo virtual environment
-python -m venv venv
-
-# Windows
-venv\\Scripts\\activate
-# macOS / Linux
-source venv/bin/activate
-
-# 3. Cài đặt thư viện
+# 2. Cài đặt thư viện
 pip install -r requirements.txt
 ```
 
@@ -204,7 +196,10 @@ cài thư viện → tạo config → load model → test model → khởi độ
 > \*\*\[Xem video demo tại đây](#)\*\*  
 > \*(Cập nhật link sau khi upload lên YouTube/Drive)\*
 
-[!\[Demo Video](https://img.shields.io/badge/▶\_Xem\_Demo-YouTube-red?style=for-the-badge\&logo=youtube)](#)
+
+https://github.com/user-attachments/assets/cd706338-a4f1-4a05-bfb4-47e737530f84
+
+
 
 \---
 
